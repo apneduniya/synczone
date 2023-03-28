@@ -26,7 +26,7 @@ const Login = () => {
   return (
     <>
       <Head>
-        <title>Login | Apneduniya</title>
+        <title>Login | SyncZone</title>
       </Head>
       {loading ?
         <div className="loading-screen">
