@@ -9,8 +9,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Apneduniya</title>
-        <meta name="description" content="Apneduniya" />
+        <title>SyncZone</title>
+        <meta name="description" content="SyncZone" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       
